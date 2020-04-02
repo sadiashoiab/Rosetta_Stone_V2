@@ -24,7 +24,7 @@ namespace Rosetta.Controllers
             _logger = logger;
         }
 
-        // GET status ..vv
+        // GET status testttt
         [ProducesResponseType(typeof(Status), StatusCodes.Status200OK)]
         [Produces("application/json")]
         [HttpGet]
