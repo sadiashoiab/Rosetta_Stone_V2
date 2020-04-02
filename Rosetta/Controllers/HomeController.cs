@@ -24,7 +24,7 @@ namespace Rosetta.Controllers
             _logger = logger;
         }
 
-        // GET status new sadia
+        // GET status 
         [ProducesResponseType(typeof(Status), StatusCodes.Status200OK)]
         [Produces("application/json")]
         [HttpGet]
