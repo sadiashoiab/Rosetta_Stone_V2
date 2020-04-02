@@ -66,7 +66,7 @@ namespace Rosetta
             });
 
             // note: as we are running under linux
-            //////test
+            
             // The following will configure the channel to use the given folder to temporarily
             // store telemetry items during network or Application Insights server issues.
             // User should ensure that the given folder already exists
